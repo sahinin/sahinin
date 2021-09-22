@@ -1,2 +1,3 @@
+echo  hi
+free -h
 
-this is bhanu file just to practice 
